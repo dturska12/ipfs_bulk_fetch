@@ -42,7 +42,7 @@ async function fetchFilesFromIPFS(folderCID, filesToFetch) {
 }
 
 // Replace 'folderCID' with the CID of the folder you want to fetch files from
-const folderCID = 'CID';
+const folderCID = 'QmExampleFolderCID';
 
 // Specify the names of the files you want to fetch
 const filesToFetch = [];
